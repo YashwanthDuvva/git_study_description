@@ -32,8 +32,16 @@
 # Merging branches
 1. after commiting and pushing all changes to github  to new branch
 2. do compare and pull request 
-3. now changes and complete code is merged in github 
+3. now changes and complete code is merged in github git merge dummy
 4. now we have to pull request from main to local machine
 5. git pull origin main
 6. now we can delete the branch 
 7. git branch -d dummy
+
+# undo / reset
+1. staged = add cmd to git to track the changed
+2. after commiting if you want to uncommit or unstage use
+3. git reset --> reset last change or unstage
+4. to uncommit use git reset HEAD/ HEAD~1
+5. head~1 takes last commit and before change ie staging file
+6. it will reset all commits
