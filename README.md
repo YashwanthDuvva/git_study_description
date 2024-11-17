@@ -26,4 +26,14 @@
 5. must add the files to new branch git add .
 6. them commit the changes git commit -m "updated changes to subranch"
 7. git push origin subranch 
-----
+
+## pull request pr is pulling downloading repo from github or pulling code from other branch to main branch
+
+# Merging branches
+1. after commiting and pushing all changes to github  to new branch
+2. do compare and pull request 
+3. now changes and complete code is merged in github 
+4. now we have to pull request from main to local machine
+5. git pull origin main
+6. now we can delete the branch 
+7. git branch -d dummy
