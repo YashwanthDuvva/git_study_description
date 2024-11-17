@@ -28,6 +28,7 @@
 7. git push origin subranch 
 
 ## pull request pr is pulling downloading repo from github or pulling code from other branch to main branch
+## add and commit --> git commit -am "updated"
 
 # Merging branches
 1. after commiting and pushing all changes to github  to new branch
@@ -45,3 +46,8 @@
 4. to uncommit use git reset HEAD/ HEAD~1
 5. head~1 takes last commit and before change ie staging file
 6. it will reset all commits
+
+# forking
+1. forking means duplicating entire repo form a person to our github
+2. now we can make changes
+3. add content make commits
