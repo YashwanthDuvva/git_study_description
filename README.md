@@ -25,4 +25,5 @@
 4. to create a new brach use git checkout -b subranch --> -b cmd will create a new branch
 5. must add the files to new branch git add .
 6. them commit the changes git commit -m "updated changes to subranch"
-7. git push origin subranch
+7. git push origin subranch 
+----
