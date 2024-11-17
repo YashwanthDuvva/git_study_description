@@ -35,4 +35,5 @@
 3. now changes and complete code is merged in github 
 4. now we have to pull request from main to local machine
 5. git pull origin main
-6. 
+6. now we can delete the branch 
+7. git branch -d dummy
