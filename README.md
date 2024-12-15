@@ -4,8 +4,7 @@
  2. git add filename or git add . --> adds every new file created
  3. git status --> gives complete status description like new files changed files etc.
  4. git commit -m "type commit message"
- 5. git branch -M main --> initializing master branch as 'main'
- 6. git push origin main --> pushes to origin main branch of clones repo. but verifies crenditials
+ 5. git push origin main --> pushes to origin main branch of clones repo. but verifies crenditials
 
 ------------------------------------------------------------
 
@@ -17,7 +16,8 @@
 5. git commit -m "commit message"
 6. now add remote origin using ssh link
 7. git remote add origin " ssh link"
-8. git push -u origin main --> -u=upstreaming
+8. git branch -M main --> initializing master branch as 'main'
+9. git push -u origin main --> -u=upstreaming
 
 # Branching
 1. The main branch is the master branch for every file and their commits.
