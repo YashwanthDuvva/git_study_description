@@ -4,7 +4,7 @@
  2. git add filename or git add . --> adds every new file created
  3. git status --> gives complete status description like new files changed files etc.
  4. git commit -m "type commit message"
- 5. git branch -M main --> initializing master branch as 'main'
+ 5. git branch -M main --> initializing master branch as 'main'. // nothing //
  6. git push origin main --> pushes to origin main branch of clones repo. but verifies crenditials
 
 ------------------------------------------------------------
